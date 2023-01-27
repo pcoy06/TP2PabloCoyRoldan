@@ -16,7 +16,7 @@ namespace Ejercicio3
             
             float valorIva, precioCompra;
             
-            Console.WriteLine("-------------------Bienvenido!------------------------\n");
+            Console.WriteLine("-------------------Bienvenidos!------------------------\n");
             Console.Write("Por favor ingrese el valor del Producto elegido: $ ");
             precioCompra = float.Parse(Console.ReadLine());
 
